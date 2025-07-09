@@ -1,0 +1,9 @@
+{
+    "wolf.disableHotModeWarning": true,
+    "DockerRun.DisableDockerrc": true,
+    "python.testing.pytestArgs": [
+        "aulas"
+    ],
+    "python.testing.unittestEnabled": false,
+    "python.testing.pytestEnabled": true
+}

@@ -1,0 +1,14 @@
+    "workbench.iconTheme": "symbols",
+    "workbench.editor.empty.hint": "hidden",
+    "explorer.compactFolders": false,
+    "workbench.colorTheme": "Min Dark",
+    "code-runner.runInTerminal": true,
+    "code-runner.clearPreviousOutput": true,
+    "code-runner.executorMap": {
+        
+        "python": "cls ; python -u",
+        
+    },
+    "code-runner.ignoreSelection": true,
+    "python.defaultInterpreterPath": "python",
+    "editor.minimap.enabled": false,
